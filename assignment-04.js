@@ -6,12 +6,12 @@ const app = express();
 
 app.use(bodyParser.json());
 
-// From youtube john keating
+
 const db = mysql.createConnection({
     host: "webcourse.cs.nuim.ie",
-    user: "u220484",
-    password: "Cha9oochief5eete",
-    database: "cs230_u220484"
+    //user: hidden,
+   // password: hidden,
+    //database: hidden
  });
 
 db.connect((err) => {
@@ -20,8 +20,6 @@ db.connect((err) => {
 });
 
 // CRUD
-// From w3schools & John Keatin Youtube
-
 // Create
 app.post('/user', (req, res) => {
   const userData = req.body;
