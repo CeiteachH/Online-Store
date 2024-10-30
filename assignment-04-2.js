@@ -1,5 +1,3 @@
-// from john keating youtube never got this sorted
-
 var http = require("http"); // creating an API using http
 var url = require("url"); // using url to extract the route (e.g. /, /api/user)
 var querystring = require("querystring"); // this will contain the body of the POST request
