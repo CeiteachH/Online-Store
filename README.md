@@ -9,7 +9,7 @@ Solutions	provide	CRUD	functionality	for	Creating,	Searching	(Retrieving),	Updat
 Deleting	 user	information	 stored	in	a	 relational	 database	 (MariaDB	 database)	using	a	
 “back	end”	application	and	using	a	modified	“back	end”	together	with	an	AJAX-driven	“front	end”	application	demonstrating	a	full-stack	solution.
 Developed	a	fully	functional User	Interface	(UI) that	supports	the	 full	CRUD	activity.	
-(used Html, CSS,Javascript / nodejs, mongodb, JQuery, boostrap(bootsnipp))
+(used Html,Javascript / nodejs, mongodb, JQuery, boostrap(bootsnipp))
 
 ![Data1](https://github.com/user-attachments/assets/be03f596-52ed-4513-b51a-e34c4cbbb56a)
 ![Data2](https://github.com/user-attachments/assets/aa7cf0f0-9c97-49a9-8a64-56d5a40f94ad)
