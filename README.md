@@ -1,6 +1,6 @@
 # Online-Store
-Working with CRUD and Online Database
-(full stack)
+Full-Stack User Management System with CRUD Operations Using Node.js, jQuery, Bootstrap, and MongoDB (NoSQL)
+
 Developed	two	applications	for	maintaining	a	database	of	personal	details	for	users	
 of	 a	 hypothetical	 online	 store.	 The	 database,	called	 USERS,	
 contains	 tables	 that	 record	 user	 personal	 information	 [Title,	 First	Name(s)*,	 Surname*,	Mobile*,	 Email	 Address*],	 and	 both	 home	 and	 shipping	 addresses	 [Address	 Line	 1*,	 Address	 Line	 2,	
